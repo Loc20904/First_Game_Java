@@ -1,0 +1,290 @@
+worldX:1200
+worldY:1436
+speed:4
+strikeCount:6
+strikeNum:2
+soliAreaDefaultX:8
+soliAreaDefaultY:16
+counterLockon:0
+messIndex:0
+life:3
+mana:8
+mana counter:129
+level:1
+exp:4
+attack:2
+streng:1
+defen:2
+dexterity:1
+next current level:5
+coin:2
+shoot counter:30
+alive:true
+dying counter:0worldX:1236
+worldY:1392
+speed:4
+strikeCount:2
+strikeNum:2
+soliAreaDefaultX:8
+soliAreaDefaultY:16
+counterLockon:0
+messIndex:0
+life:3
+mana:8
+mana counter:250
+level:1
+exp:4
+attack:2
+streng:1
+defen:2
+dexterity:1
+next current level:5
+coin:2
+shoot counter:30
+alive:true
+dying counter:0worldX:1232
+worldY:1436
+speed:4
+strikeCount:1
+strikeNum:1
+soliAreaDefaultX:8
+soliAreaDefaultY:16
+counterLockon:0
+messIndex:0
+life:6
+mana:5
+mana counter:356
+level:1
+exp:4
+attack:2
+streng:1
+defen:2
+dexterity:1
+next current level:5
+coin:1
+shoot counter:30
+alive:true
+dying counter:0worldX:1050
+worldY:1439
+speed:1
+strikeCount:0
+strikeNum:2
+soliAreaDefaultX:2
+soliAreaDefaultY:10
+counterLockon:80
+messIndex:0
+life:4
+mana:0
+mana counter:0
+level:0
+exp:2
+attack:5
+streng:0
+defen:0
+dexterity:0
+next current level:0
+coin:0
+shoot counter:0
+alive:true
+dying counter:0worldX:872
+worldY:1394
+speed:1
+strikeCount:0
+strikeNum:1
+soliAreaDefaultX:2
+soliAreaDefaultY:10
+counterLockon:80
+messIndex:0
+life:4
+mana:0
+mana counter:0
+level:0
+exp:2
+attack:5
+streng:0
+defen:0
+dexterity:0
+next current level:0
+coin:0
+shoot counter:0
+alive:true
+dying counter:0worldX:718
+worldY:1394
+speed:1
+strikeCount:1
+strikeNum:2
+soliAreaDefaultX:2
+soliAreaDefaultY:10
+counterLockon:80
+messIndex:0
+life:4
+mana:0
+mana counter:0
+level:0
+exp:2
+attack:5
+streng:0
+defen:0
+dexterity:0
+next current level:0
+coin:0
+shoot counter:0
+alive:true
+dying counter:0worldX:937
+worldY:1239
+speed:1
+strikeCount:8
+strikeNum:1
+soliAreaDefaultX:2
+soliAreaDefaultY:10
+counterLockon:80
+messIndex:0
+life:4
+mana:0
+mana counter:0
+level:0
+exp:2
+attack:5
+streng:0
+defen:0
+dexterity:0
+next current level:0
+coin:0
+shoot counter:0
+alive:true
+dying counter:0worldX:1004
+worldY:1439
+speed:0
+strikeCount:0
+strikeNum:1
+soliAreaDefaultX:0
+soliAreaDefaultY:0
+counterLockon:0
+messIndex:0
+life:0
+mana:0
+mana counter:0
+level:0
+exp:0
+attack:0
+streng:0
+defen:0
+dexterity:0
+next current level:0
+coin:0
+shoot counter:0
+alive:true
+dying counter:0worldX:1044
+worldY:1368
+speed:0
+strikeCount:0
+strikeNum:1
+soliAreaDefaultX:0
+soliAreaDefaultY:0
+counterLockon:0
+messIndex:0
+life:0
+mana:0
+mana counter:0
+level:0
+exp:0
+attack:0
+streng:0
+defen:0
+dexterity:0
+next current level:0
+coin:0
+shoot counter:0
+alive:true
+dying counter:0worldX:972
+worldY:1368
+speed:0
+strikeCount:0
+strikeNum:1
+soliAreaDefaultX:0
+soliAreaDefaultY:0
+counterLockon:0
+messIndex:0
+life:0
+mana:0
+mana counter:0
+level:0
+exp:0
+attack:0
+streng:0
+defen:2
+dexterity:0
+next current level:0
+coin:0
+shoot counter:0
+alive:true
+dying counter:0
+worldX:904
+worldY:1072
+speed:4
+strikeCount:0
+strikeNum:1
+soliAreaDefaultX:8
+soliAreaDefaultY:16
+counterLockon:0
+messIndex:0
+life:7
+mana:3
+mana counter:329
+level:2
+exp:7
+attack:3
+streng:2
+defen:3
+dexterity:2
+next current level:10
+coin:4
+shoot counter:30
+alive:true
+dying counter:0
+worldX:940
+worldY:1192
+speed:4
+strikeCount:10
+strikeNum:1
+soliAreaDefaultX:8
+soliAreaDefaultY:16
+counterLockon:0
+messIndex:0
+life:7
+mana:4
+mana counter:23
+level:2
+exp:7
+attack:3
+streng:2
+defen:3
+dexterity:2
+next current level:10
+coin:4
+shoot counter:30
+alive:true
+dying counter:0
+worldX:940
+worldY:1252
+speed:4
+strikeCount:3
+strikeNum:1
+soliAreaDefaultX:8
+soliAreaDefaultY:16
+counterLockon:0
+messIndex:0
+life:7
+mana:4
+mana counter:38
+level:2
+exp:7
+attack:3
+streng:2
+defen:3
+dexterity:2
+next current level:10
+coin:4
+shoot counter:30
+alive:true
+dying counter:0
